@@ -6,24 +6,25 @@ const pugDimensions = { width: 353 * 1.2, height: 325 * 1.2 };
 
 
 const levels = {
-  5: "Sr Assistant",
-  10: "Jr Honoror",
-  15: "Master Honoror",
-  35: "S Tier Honoror",
-  65: "Junior Acolyte",
-  105: "Acolyte",
-  150: "Senior Acolyte",
-  250: "Priest",
-  450: "Sage",
-  650: "Hermit",
-  1000: "Senior Hermit",
-  1500: "CEO",
-  2500: "Pope",
-  3500: "Underlord",
-  4500: "Lord",
-  10500: "OverLord",
-  20500: "King",
-  30500: "Anunnaki"
+  0: "Happy Bappy",
+  5: "Trial Muck",
+  10: "Mucket",
+  15: "Mucketeer",
+  35: "Mucket in a Bucket",
+  65: "Elon Muck",
+  105: "Musketeer",
+  150: "Pewdiepie",
+  250: "Mucket in a closet",
+  450: "Mucket in Shade's closet",
+  650: "Hermitcraft Watcher",
+  1000: "Senior Hermitcraft watcher",
+  1500: "CEO Bill Gates",
+  2500: "Pope Francis",
+  3500: "Shade",
+  4500: "Law School Attenedee",
+  10500: "Minecraft Player",
+  20500: "Child",
+  30500: "⭐️ Liquid / Shade ⭐"
 }
 
 const startTime = Date.now();
